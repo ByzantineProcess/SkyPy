@@ -14,5 +14,7 @@ Sky.revflip()
 ```
 ## Roadmap
 ❌ Modular command system
+
 ❌ AI-based Bazaar predictions
+
 ❌ Free Money - getting the absolute best standard method of making money fast.
